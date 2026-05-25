@@ -24,10 +24,23 @@ The notebook explores the training mechanics, hyperparameter optimization, and b
    * Documented model alignment, overfitting tendencies under loose constraints, and optimal hyperparameter choices based on classification accuracy and visual boundary convergence.
 
 ## 📂 Repository Contents
-* `ml_classification_analysis.ipynb` -> Core Jupyter Notebook containing data synthesis, model executions, hyperparameter sweeps, and decision boundary visualizations.
-* `README.md` -> High-level overview of the classification architecture.
+* `customer_segmentation.ipynb` -> Core Jupyter Notebook containing data pipeline executions.
+* `Wholesale customers data.csv` -> Local source dataset in CSV format for seamless cross-platform loading.
+* `README.md` -> Technical overview of the project architecture.
 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
    git clone [https://github.com/pd8r/Machine-Learning-Classification-Lab.git](https://github.com/pd8r/Machine-Learning-Classification-Lab.git)
+
+
+
+## Step 4: Add it to Your Master Profile Landing Page 🔄
+
+Once that is saved, let's make sure it shows up on your main homepage. Go to your **`pd8r`** profile repository, edit its `README.md`, and update your **Featured Pipelines** section so all three projects sit side-by-side:
+
+```markdown
+## 📂 Featured Pipelines
+* 🏠 [AmesHousing-ML-Pipeline](https://github.com/pd8r/AmesHousing-ML-Pipeline) - End-to-end regression pipeline focusing on data cleaning, log transformations, and robust scaling.
+* 📦 [Wholesale-Customer-Segmentation](https://github.com/pd8r/Wholesale-Customer-Segmentation) - Unsupervised learning pipeline utilizing UMAP, K-Means, and DBSCAN for multi-dimensional data clustering.
+* 🎯 [Machine-Learning-Classification-Lab](https://github.com/pd8r/Machine-Learning-Classification-Lab) - Supervised learning framework evaluating decision boundaries and hyperparameter tuning across SVM, Random Forests, KNN, and Logistic Regression.

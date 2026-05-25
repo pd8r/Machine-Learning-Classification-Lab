@@ -33,7 +33,13 @@ The notebook explores the training mechanics, hyperparameter optimization, and b
    ```bash
    git clone [https://github.com/pd8r/Machine-Learning-Classification-Lab.git](https://github.com/pd8r/Machine-Learning-Classification-Lab.git)
 
+2. Install the necessary dependencies:
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
+3. Launch the server:
+   ```bash
+   jupyter notebook
 
 ## Step 4: Add it to Your Master Profile Landing Page 🔄
 
